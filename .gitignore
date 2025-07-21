@@ -1,0 +1,100 @@
+# Qt related files
+build*/
+*build*
+*.pro.user*
+*.autosave
+*.tmp
+moc_*.cpp
+moc_*.h
+qrc_*.cpp
+ui_*.h
+Makefile*
+!Makefile.Release
+!Makefile.Debug
+
+# CMake build files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+install_manifest.txt
+compile_commands.json
+CTestTestfile.cmake
+_deps
+
+# Qt Creator files
+*.user
+*.user.*
+
+# STM32CubeIDE files
+.metadata/
+.settings/
+Debug/
+Release/
+*.launch
+*.cproject
+*.project
+
+# STM32 generated files
+Drivers/CMSIS/
+Drivers/STM32L4xx_HAL_Driver/
+Middlewares/ST/
+Middlewares/Third_Party/
+
+# Build artifacts
+*.o
+*.obj
+*.elf
+*.bin
+*.hex
+*.map
+*.list
+*.su
+*.idb
+*.pdb
+
+# IDE specific files (VS Code, etc.)
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS specific files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# Backup files
+*.bak
+*.backup
+*~
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Translation files (keep source .ts, ignore compiled .qm)
+*.qm
+
+# Documentation build
+doc/html/
+doc/latex/
+
+# Package files
+*.zip
+*.tar.gz
+*.rar
+
+# Generated files that should not be versioned
+*.moc
+*.rcc
+version.h
+build-*/
