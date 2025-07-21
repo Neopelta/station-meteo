@@ -1,0 +1,6 @@
+C:/Users/victo/Desktop/Bureau/Cours/M1/LE/PROJETS/SensorDemo_BLE_l476rg/Src/gatt_db.c:52:12:Add_HWServW2ST_Service	64	static
+C:/Users/victo/Desktop/Bureau/Cours/M1/LE/PROJETS/SensorDemo_BLE_l476rg/Src/gatt_db.c:97:12:Add_SWServW2ST_Service	64	static
+C:/Users/victo/Desktop/Bureau/Cours/M1/LE/PROJETS/SensorDemo_BLE_l476rg/Src/gatt_db.c:126:12:Acc_Update	56	static
+C:/Users/victo/Desktop/Bureau/Cours/M1/LE/PROJETS/SensorDemo_BLE_l476rg/Src/gatt_db.c:152:12:Quat_Update	40	static
+C:/Users/victo/Desktop/Bureau/Cours/M1/LE/PROJETS/SensorDemo_BLE_l476rg/Src/gatt_db.c:194:6:Read_Request_CB	32	static
+C:/Users/victo/Desktop/Bureau/Cours/M1/LE/PROJETS/SensorDemo_BLE_l476rg/Src/gatt_db.c:217:12:Environmental_Update	40	static

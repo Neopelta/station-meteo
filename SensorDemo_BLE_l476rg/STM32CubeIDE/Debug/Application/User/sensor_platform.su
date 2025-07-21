@@ -1,0 +1,5 @@
+../Application/User/sensor_platform.c:5:9:platform_write_lps22	40	static
+../Application/User/sensor_platform.c:11:9:platform_read_lps22	40	static
+../Application/User/sensor_platform.c:17:9:platform_write_hts221	40	static
+../Application/User/sensor_platform.c:24:9:platform_read_hts221	40	static
+../Application/User/sensor_platform.c:31:6:platform_delay	16	static
